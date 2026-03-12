@@ -40,11 +40,17 @@ void main() {
 }
 ```
 ## Execution Screenshots
-The following screenshots demonstrate the library's core mathematical logic and its robust error handling:
+The following screenshots demonstrate the library's core mathematical logic and its robust error handling. Both examples showcase the formatted output and internal validation.
 
-1. **Matrix Arithmetic & Logical Comparisons**
-![Arithmetic and Logic](screenshot2.png)
+<p align="center">
+<img src="screenshot2.png" alt="Matrix Arithmetic" width="85%">
+<br>
+<b>1. Matrix Arithmetic & Logical Comparisons</b>
+</p>
 
-2. **Error Handling & Scalar Operations**
+<p align="center">
+<img src="screenshot3.png" alt="Error Handling" width="85%">
+<br>
+<b>2. Error Handling & Scalar Operations</b>
+</p>
 
-![Error Handling](screenshot3.png)
