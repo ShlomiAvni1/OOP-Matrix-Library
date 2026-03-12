@@ -43,14 +43,15 @@ void main() {
 The following screenshots demonstrate the library's core mathematical logic and its robust error handling. Both examples showcase the formatted output and internal validation.
 
 <p align="center">
-<img src="screenshot2.png" alt="Matrix Arithmetic" width="85%">
-<br>
 <b>1. Matrix Arithmetic & Logical Comparisons</b>
+<br>
+<img src="screenshot2.png" alt="Matrix Arithmetic" width="85%">
 </p>
 
 <p align="center">
-<img src="screenshot3.png" alt="Error Handling" width="85%">
-<br>
 <b>2. Error Handling & Scalar Operations</b>
+<br>
+<img src="screenshot3.png" alt="Error Handling" width="85%">
 </p>
+
 
