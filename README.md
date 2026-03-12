@@ -43,7 +43,8 @@ void main() {
 The following screenshots demonstrate the library's core mathematical logic and its robust error handling:
 
 1. **Matrix Arithmetic & Logical Comparisons**
-![Arithmetic and Logic](screenshot1.png)
+![Arithmetic and Logic](screenshot2.png)
 
 2. **Error Handling & Scalar Operations**
-![Error Handling](screenshot2.png)
+
+![Error Handling](screenshot3.png)
